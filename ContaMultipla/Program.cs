@@ -1,4 +1,5 @@
 ﻿using System;
+using ContaMultipla.Entities;
 
 namespace ContaMultipla
 {
@@ -6,7 +7,11 @@ namespace ContaMultipla
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BusinessAccount account = new BusinessAccount(8010, "Samuel Ribeiro", 100.0, 500.0);
+
+            Console.WriteLine(account.Balance);
+
+            
         }
     }
 }
