@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaMultipla", "ContaMultipla\ContaMultipla.csproj", "{3CED7DF5-C2FE-418C-98EF-E8A70A9E0805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CED7DF5-C2FE-418C-98EF-E8A70A9E0805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CED7DF5-C2FE-418C-98EF-E8A70A9E0805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CED7DF5-C2FE-418C-98EF-E8A70A9E0805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CED7DF5-C2FE-418C-98EF-E8A70A9E0805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8B7264-D74A-44AB-AA88-97D9D59061EC}
+	EndGlobalSection
+EndGlobal
